@@ -3,7 +3,7 @@
 ## About
 This script was inspired by [Han, Mao, and Dally's work](https://arxiv.org/abs/1510.00149) and implements neural net quantization on TensorFlow graph files.
 
-For a more in-depth explanation, [see here](http://github.com).
+For a more in-depth explanation, [see here](https://medium.com/@tomasreimers/when-smallers-better-4b54cedc3402#.fwlrwna0b).
 
 ## Usage
 ```

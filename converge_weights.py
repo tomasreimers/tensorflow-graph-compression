@@ -10,7 +10,7 @@ import optimal_cluster
 # can't use k-means++ due to known bug (https://github.com/scikit-learn/scikit-learn/issues/7705)
 # problem is fixed in master; will update when patch hits release
 km_init = "random"
-km_jobs = 2 # -1 to use all CPUs
+km_jobs = 1 # -1 to use all CPUs
 km_n = 2
 km_max_iter = 300
 
